@@ -1,4 +1,4 @@
-<img align="center" style="margin-top:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##D2BCFF&height=120&section=header"/>
+<img align="center" style="margin-top:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2BCFF&height=120&section=header"/>
 <p align="center">🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil!🖤❤️🤍</p>
 <p align="center">🗣️ Me chamo, Francisco Júnior. Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - UFERSA.</p>
 
