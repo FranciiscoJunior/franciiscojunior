@@ -5,6 +5,7 @@
 <p align="center">Desenvolvedor Web com experiência em projetos Front-End, utilizando tecnologias como Html5, Css3, Javascript, React.js, Typescript, Tailwind, Bootstrap e Next.js. Possuo conhecimentos sólidos em Banco de Dados relacional, linguagem SQL com PostgreSQL e Git para controle e versionamento de projetos, armazenados no Github.</p>
 
 <p align="center">Apaixonado por desenvolvimento Web e suas vertentes, desde métodos de UI/UX até experiências finas em etapas de desenvolvimento de software. Possuo habilidades analíticas e pensamento crítico, além de bom relacionamento interpessoal, trabalhando bem em equipe, com boa comunicação, organização, proatividade e resiliência.</p>
+
 <h3 align="center">Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor!</h3>
 &nbsp;
 <div align="center">
