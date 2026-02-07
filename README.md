@@ -72,4 +72,4 @@
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=FranciiscoJunior.FranciiscoJunior&"  />
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##D2BCFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2BCFF&height=120&section=footer"/>
