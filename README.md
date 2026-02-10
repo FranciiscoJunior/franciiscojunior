@@ -1,7 +1,7 @@
 <img align="center" style="margin-top:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2BCFF&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=D2BCFF&center=true&vCenter=true&width=650&lines=Transformando+código+em+experiências+reais;Soluções+FullStack+&+Front-end+Modernas;Foco+em+Web++e+responsividade%2FUI;Evolução+Constante" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=D2BCFF&center=true&vCenter=true&width=650&lines=Transformando+código+em+experiências+reais;Soluções+FullStac+Modernas;Foco+em+Web+e+responsividade;Evolução+Constante" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2BCFF&height=2&section=header" />
