@@ -19,7 +19,7 @@
 🎓 Formação Acadêmica & Cursos - Licenças
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2BCFF&height=2&section=header" />
 
-• Mestrando em Engenharia Életrica pelo Programa de Pós Graduação em Engenharia Elétrica - PPGEE - UFERSA
+• Mestrando em Engenharia Elétrica pelo Programa de Pós Graduação em Engenharia Elétrica - PPGEE - UFERSA
 
 • Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - CMA - UFERSA
 
