@@ -13,6 +13,9 @@
 
 <p>Apaixonado por desenvolvimento Web e suas vertentes, desde métodos de UI/UX até experiências finas em etapas de desenvolvimento de software. Possuo habilidades analíticas e pensamento crítico, além de bom relacionamento interpessoal, trabalhando bem em equipe, com boa comunicação, organização, proatividade e resiliência.</p>
 
+<h3 align="center">Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor!</h3>
+&nbsp;
+
 🎓 Formação Acadêmica & Cursos - Licenças
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2BCFF&height=2&section=header" />
 
@@ -20,8 +23,8 @@
 
 • Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - CMA - UFERSA
 
-<h3 align="center">Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor!</h3>
-&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2BCFF&height=2&section=header" />
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FranciiscoJunior&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranciiscoJunior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
